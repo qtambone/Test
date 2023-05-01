@@ -16,10 +16,3 @@ def division(a, b):
         return "Erreur : division par zéro"
     else:
         return a / b
-
-
-resultat = addition(4, 7)
-print(resultat)  # affiche 11
-
-resultat = division(10, 2)
-print(resultat)  # affiche 5.0
