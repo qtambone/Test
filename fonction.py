@@ -4,7 +4,7 @@ def addition(a, b):
 
 # Fonction pour soustraire deux nombres
 def soustraction(a, b):
-    return a - bls
+    return a - b
 
 # Fonction pour multiplier deux nombres
 def multiplication(a, b):
